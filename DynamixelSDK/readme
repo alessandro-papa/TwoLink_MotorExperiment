@@ -1,0 +1,12 @@
+Dynamixel Software Development Kit
+
+library to control dynamixel servo motors
+
+see documentation:
+
+https://github.com/ROBOTIS-GIT/DynamixelSDK
+https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_sdk/overview/
+
+XM430-W210 motor:
+https://emanual.robotis.com/docs/en/dxl/x/xm430-w210/
+
